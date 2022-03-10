@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,UACE,cACF,CAEA,GACC,0BAA2B,CAC3B,eACD","file":"main.ffc861f2.chunk.css","sourcesContent":["img:hover {\n  cursor: pointer\n}\n\nh1{\n font-family: JetBrains Mono;\n font-weight: bold;\n}\n"]}
